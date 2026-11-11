@@ -1,11 +1,11 @@
 {
-  "version": "1.1.7",
-  "file": "packs/teacher-planner-1.1.7.tpp",
-  "sig": "-puNMTdGOHHeXu8Y20aCB564KsRNPIWU_ca8RizK3512M1SYhZy4hLgo6Gl1EyeINZzgzWssZCTcufFf-adMBQ",
-  "size": 1072317,
-  "sha256": "4ae23ec3ebbdff3717a541525e36bd376c2eef2d692b9000edfd1a7d91bb3307",
+  "version": "1.1.8",
+  "file": "packs/teacher-planner-1.1.8.tpp",
+  "sig": "5JYCKr6gc8DH18qMpsGxJ6w63GSxOIgeuNyiyXJdW6jqYXVp3Mfpc3klSJW-EZEU69B8ztviGP558gASlcMJBQ",
+  "size": 1072762,
+  "sha256": "d46f5cade4ea6093765663fbab94511b59c218a31b09c012a9602e50a0252221",
   "minShell": "1.1.0",
-  "notes": "Teacher Planner now opens in presenting mode, so student data never shows by accident on the board (Settings > Privacy to change).",
+  "notes": "Progress and Current grade now use only the assessments a student sat (missed ones show as 'N missed' instead of counting as 0).",
   "released": "2026-11-11",
   "installerUrl": ""
 }
