@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "file": "packs/teacher-planner-1.1.4.tpp",
-  "sig": "G_ocbMLjgAL25UMOOAevvx2OGv2qkCtVtM6ucwoewBnDZPR9HXmxc84-uEwp7MibIR2wdR3GJppuK7niQ9NKzg",
-  "size": 1056380,
-  "sha256": "b806a6f52425fc6ac1a572725b1aeaec1764edc6bf4cf4bf8f3b441e7bf314a4",
+  "version": "1.1.5",
+  "file": "packs/teacher-planner-1.1.5.tpp",
+  "sig": "pS37oLMotl4GIAcWxWPl9HxevEsi2hH1kZLhJGMTezkAJSuoDhjFwfGGXtuOKgnnnkQgEgh1TO881W72lrzTBQ",
+  "size": 1071476,
+  "sha256": "39e45fe67fa4e5f663660c083330b025c146206273fbe81af55ef03fba4715ab",
   "minShell": "1.1.0",
-  "notes": "Parents' evening: 'Bookings not showing?' shows what the planner sees in your calendar, lets you choose which titles count as bookings, and can read your other Outlook calendars.",
+  "notes": "Seating plans: design and save room layouts (Seating plans > Room layouts), choose them from a drop-down for any class, keep a plan for each room a class uses, and move a plan to another class.",
   "released": "2026-11-11",
   "installerUrl": ""
 }
