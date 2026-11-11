@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "file": "packs/teacher-planner-1.1.2.tpp",
-  "sig": "Rz2DbUPjL6PylNWn_x9bY03mSqfY6PYrdOTS_nNvX8h2_q5HW5ojPbxbRI5ja4HAIdnntMB6oDmE_M6iMie9nA",
-  "size": 1051807,
-  "sha256": "826fb75574ab1cd9bc0727fdf58c29e3a1da17bd9f40243d77bfe0ef1b894a05",
+  "version": "1.1.3",
+  "file": "packs/teacher-planner-1.1.3.tpp",
+  "sig": "RC0UGNRQ02wFfnlCXVWhR75YD6IMQvubB7V8gPtUGNcs2d-taMzmn3yezVnt3egCgwdaHF5oNvxH8XgENUVI8Q",
+  "size": 1051629,
+  "sha256": "694cdea81be8f0cad120eb46c0b39d3b162458beba5b542190417701e3a1d72a",
   "minShell": "1.1.0",
-  "notes": "Parents' evening: choose the year groups, see who hasn't got an appointment and book them into free slots.",
+  "notes": "Licence page: the email to a colleague now has the desktop app's install steps.",
   "released": "2026-11-11",
   "installerUrl": ""
 }
