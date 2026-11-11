@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "file": "packs/teacher-planner-1.1.1.tpp",
-  "sig": "i-ckmZeXjkxAwt93WbkHXIzo0cp57zHLE0ZLV31Q9Y4mdDtNnY2CmsWgVUFIXA8B-fE2iilDnE5y262HsHgxgg",
-  "size": 1047310,
-  "sha256": "57587cf56fe7cd3d823be909ee63d0b80580c4dc3728394abe02543739b9328f",
+  "version": "1.1.2",
+  "file": "packs/teacher-planner-1.1.2.tpp",
+  "sig": "Rz2DbUPjL6PylNWn_x9bY03mSqfY6PYrdOTS_nNvX8h2_q5HW5ojPbxbRI5ja4HAIdnntMB6oDmE_M6iMie9nA",
+  "size": 1051807,
+  "sha256": "826fb75574ab1cd9bc0727fdf58c29e3a1da17bd9f40243d77bfe0ef1b894a05",
   "minShell": "1.1.0",
-  "notes": "Warnings are now ticked boxes (1st, 2nd, 3rd...). Automatic updates switched on.",
+  "notes": "Parents' evening: choose the year groups, see who hasn't got an appointment and book them into free slots.",
   "released": "2026-11-11",
   "installerUrl": ""
 }
