@@ -1,11 +1,11 @@
 {
-  "version": "1.1.5",
-  "file": "packs/teacher-planner-1.1.5.tpp",
-  "sig": "pS37oLMotl4GIAcWxWPl9HxevEsi2hH1kZLhJGMTezkAJSuoDhjFwfGGXtuOKgnnnkQgEgh1TO881W72lrzTBQ",
-  "size": 1071476,
-  "sha256": "39e45fe67fa4e5f663660c083330b025c146206273fbe81af55ef03fba4715ab",
+  "version": "1.1.6",
+  "file": "packs/teacher-planner-1.1.6.tpp",
+  "sig": "_gJziRYI64OALEChyjdoQBT8r-8wSaSm-PVuJqWB6L_LKJEHOgezQPxsm8tSkhRY1UGznFFdKYWGk4YOQTUHJQ",
+  "size": 1072392,
+  "sha256": "ca64cc90a8339a248890513e4a32f30b74f2d2cc646d7cc2f5542e62e5d27cd4",
   "minShell": "1.1.0",
-  "notes": "Seating plans: design and save room layouts (Seating plans > Room layouts), choose them from a drop-down for any class, keep a plan for each room a class uses, and move a plan to another class.",
+  "notes": "Room layouts: S14, S12 and S35 come ready-made from your seating plan PowerPoints.",
   "released": "2026-11-11",
   "installerUrl": ""
 }
