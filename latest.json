@@ -1,11 +1,11 @@
 {
-  "version": "1.1.6",
-  "file": "packs/teacher-planner-1.1.6.tpp",
-  "sig": "_gJziRYI64OALEChyjdoQBT8r-8wSaSm-PVuJqWB6L_LKJEHOgezQPxsm8tSkhRY1UGznFFdKYWGk4YOQTUHJQ",
-  "size": 1072392,
-  "sha256": "ca64cc90a8339a248890513e4a32f30b74f2d2cc646d7cc2f5542e62e5d27cd4",
+  "version": "1.1.7",
+  "file": "packs/teacher-planner-1.1.7.tpp",
+  "sig": "-puNMTdGOHHeXu8Y20aCB564KsRNPIWU_ca8RizK3512M1SYhZy4hLgo6Gl1EyeINZzgzWssZCTcufFf-adMBQ",
+  "size": 1072317,
+  "sha256": "4ae23ec3ebbdff3717a541525e36bd376c2eef2d692b9000edfd1a7d91bb3307",
   "minShell": "1.1.0",
-  "notes": "Room layouts: S14, S12 and S35 come ready-made from your seating plan PowerPoints.",
+  "notes": "Teacher Planner now opens in presenting mode, so student data never shows by accident on the board (Settings > Privacy to change).",
   "released": "2026-11-11",
   "installerUrl": ""
 }
