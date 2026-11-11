@@ -1,11 +1,11 @@
 {
-  "version": "1.1.3",
-  "file": "packs/teacher-planner-1.1.3.tpp",
-  "sig": "RC0UGNRQ02wFfnlCXVWhR75YD6IMQvubB7V8gPtUGNcs2d-taMzmn3yezVnt3egCgwdaHF5oNvxH8XgENUVI8Q",
-  "size": 1051629,
-  "sha256": "694cdea81be8f0cad120eb46c0b39d3b162458beba5b542190417701e3a1d72a",
+  "version": "1.1.4",
+  "file": "packs/teacher-planner-1.1.4.tpp",
+  "sig": "G_ocbMLjgAL25UMOOAevvx2OGv2qkCtVtM6ucwoewBnDZPR9HXmxc84-uEwp7MibIR2wdR3GJppuK7niQ9NKzg",
+  "size": 1056380,
+  "sha256": "b806a6f52425fc6ac1a572725b1aeaec1764edc6bf4cf4bf8f3b441e7bf314a4",
   "minShell": "1.1.0",
-  "notes": "Licence page: the email to a colleague now has the desktop app's install steps.",
+  "notes": "Parents' evening: 'Bookings not showing?' shows what the planner sees in your calendar, lets you choose which titles count as bookings, and can read your other Outlook calendars.",
   "released": "2026-11-11",
   "installerUrl": ""
 }
