@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "file": "packs/teacher-planner-1.2.3.tpp",
-  "sig": "MsHcS5_Bjbbb8ry3dOmwqdt6qN92j5Yz4yxHtFD04OmTivl9M_CPt_kc5ygqNwfqig79euvflBVMZrO3FDkMWA",
-  "size": 1109289,
-  "sha256": "9ad9c15061ad85626381376e3455df7beeffb81437946ea2076dd372b13e9cf3",
+  "version": "1.2.4",
+  "file": "packs/teacher-planner-1.2.4.tpp",
+  "sig": "UjMrFkOyHmpE9lIoJ0LHH-NXx5jIrzXzNMi5IUcARkcrXFxCOvUpHJb2o_4Gw3MMSW0nmseUL422NBXMn2wPWQ",
+  "size": 1108734,
+  "sha256": "83da4b2d8cfa06e2d0032f45b0551fcc0f6a29cde3f12e58a05e9228f21aae0f",
   "minShell": "1.1.0",
-  "notes": "Seating plans saved by an earlier version are saved again once so both PowerPoint slides (normal and board view) match; plans imported from a board slide are turned to the normal view.",
+  "notes": "Seating plans: no save while the PowerPoint is open (PowerPoint's AutoSave would overwrite it) - the app saves as soon as it is closed; the board slide's old teacher desk is removed; a desk with just one of a student's forenames keeps that name.",
   "released": "2026-11-12",
   "installerUrl": ""
 }
