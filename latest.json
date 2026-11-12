@@ -1,11 +1,11 @@
 {
-  "version": "1.2.7",
-  "file": "packs/teacher-planner-1.2.7.tpp",
-  "sig": "_iV6Lh1AyXwCC5eFLctj_33p2BeDWe0LAMHq8cmjXd-6gWtnBY2NrfocZCwwBObfnee-7JAFzrgO6LALkLVgPg",
-  "size": 1119720,
-  "sha256": "6ad3aa5ae48d1ea7b27bf55483636679cfffca68c5007c7d8062a13064447684",
+  "version": "1.2.8",
+  "file": "packs/teacher-planner-1.2.8.tpp",
+  "sig": "QEsl5NA8xNP1hvAWeTdGy1EDimefLrXuVmwSGQzXKfzygURjlIKpnR9Q_5vyZo8bPz9ioTTPFWgfkL0G0aI_Pg",
+  "size": 1120859,
+  "sha256": "10274036f42b4f1279753bd88ad4ec3c1dc73030e53a20ce8ac61301e6737e17",
   "minShell": "1.1.0",
-  "notes": "New Inclusion page: SEN needs, provision (waves), access arrangements, comments and pupil passports for students in your classes, from the school's inclusion register. Seating plans: register students get the SEN marker, new AA (access arrangements) marker, and the details on hover and in the notes.",
+  "notes": "Inclusion register: access arrangements from the AA tracking sheets, year groups used for matching, and only the monitoring sheets count as monitoring.",
   "released": "2026-11-12",
   "installerUrl": ""
 }
