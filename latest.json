@@ -1,11 +1,11 @@
 {
-  "version": "1.2.6",
-  "file": "packs/teacher-planner-1.2.6.tpp",
-  "sig": "T-YAgsTWYD2kB09YKrr4c0QnFtBXjmfnLYWNjAmOQ-3J-xzlo0pGaRaBglj0HIDLebgS1k1BlkjdQq2e9ijcNw",
-  "size": 1114703,
-  "sha256": "49a8d680aa495c7792057464b9d5b7feaa0fd4bcafc62a7514427ae170d58b47",
+  "version": "1.2.7",
+  "file": "packs/teacher-planner-1.2.7.tpp",
+  "sig": "_iV6Lh1AyXwCC5eFLctj_33p2BeDWe0LAMHq8cmjXd-6gWtnBY2NrfocZCwwBObfnee-7JAFzrgO6LALkLVgPg",
+  "size": 1119720,
+  "sha256": "6ad3aa5ae48d1ea7b27bf55483636679cfffca68c5007c7d8062a13064447684",
   "minShell": "1.1.0",
-  "notes": "Seating plans: your PowerPoints are the master copy. Every class plan is rebuilt from its PowerPoint once; after that the app only writes names into your existing desks (print and board slides), never moving desks unless you use Edit room, and keeps names exactly as you wrote them.",
+  "notes": "New Inclusion page: SEN needs, provision (waves), access arrangements, comments and pupil passports for students in your classes, from the school's inclusion register. Seating plans: register students get the SEN marker, new AA (access arrangements) marker, and the details on hover and in the notes.",
   "released": "2026-11-12",
   "installerUrl": ""
 }
