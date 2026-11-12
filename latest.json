@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "file": "packs/teacher-planner-1.2.1.tpp",
-  "sig": "Br6l6KtLisCcmZHf7eXTlkl8xccnoQP1XHw_i1R8MrcnFkgECUZml49JSt8hUOq0_-xvGcRJxgI0wrdAkEX5QA",
-  "size": 1102904,
-  "sha256": "29be5f49579b5dbe666fdcf0b0ff4f32a56ca976dacfa81cb6d1998f79b7b431",
+  "version": "1.2.2",
+  "file": "packs/teacher-planner-1.2.2.tpp",
+  "sig": "sEYy-tBsQOJzJ7lKJ8LnsYEIFaRWvlHuP9h43y8ueSLdIHOAwdnoQuI9LhWSTtPkVzopS3rF6KeVU9PRirttaA",
+  "size": 1107574,
+  "sha256": "8c8998a920e7c696f868cdc188a7155642de24e67e788a741dbb09e99a908cd9",
   "minShell": "1.1.0",
-  "notes": "Settings > Your files and folders: change where the Word planner, mark sheets, seating plans, resources and cover work are, at any time after setup.",
+  "notes": "Seating plans: saving to PowerPoint now updates both the normal (print) slide and the board (display) slide, adding a board slide if the file has only one. New Print / PDF button: normal view, board view or both, saved as a PDF in the seating plans' PDF folder.",
   "released": "2026-11-12",
   "installerUrl": ""
 }
