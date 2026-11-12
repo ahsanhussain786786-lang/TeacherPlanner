@@ -1,11 +1,11 @@
 {
-  "version": "1.2.8",
-  "file": "packs/teacher-planner-1.2.8.tpp",
-  "sig": "QEsl5NA8xNP1hvAWeTdGy1EDimefLrXuVmwSGQzXKfzygURjlIKpnR9Q_5vyZo8bPz9ioTTPFWgfkL0G0aI_Pg",
-  "size": 1120859,
-  "sha256": "10274036f42b4f1279753bd88ad4ec3c1dc73030e53a20ce8ac61301e6737e17",
+  "version": "1.2.9",
+  "file": "packs/teacher-planner-1.2.9.tpp",
+  "sig": "Xu3zTEiXVYWfyRIVi1U5T6C72qerrdLQLsGuixfbEaMf83zqHfoHpLD77ZUgOfc1FRzpcJ-b3XnQj0jieI-gVw",
+  "size": 1120658,
+  "sha256": "f361c19534e1eed5410114591d89f6e1f4fa042fc80fc74417289f555a19a4ba",
   "minShell": "1.1.0",
-  "notes": "Inclusion register: access arrangements from the AA tracking sheets, year groups used for matching, and only the monitoring sheets count as monitoring.",
+  "notes": "Seating plans: the colour-coded markers (HA, SEN, AA, Q...) are bigger and sit on the top edge of each desk, so names and grades are no longer cut off.",
   "released": "2026-11-12",
   "installerUrl": ""
 }
