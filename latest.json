@@ -1,11 +1,11 @@
 {
-  "version": "1.2.2",
-  "file": "packs/teacher-planner-1.2.2.tpp",
-  "sig": "sEYy-tBsQOJzJ7lKJ8LnsYEIFaRWvlHuP9h43y8ueSLdIHOAwdnoQuI9LhWSTtPkVzopS3rF6KeVU9PRirttaA",
-  "size": 1107574,
-  "sha256": "8c8998a920e7c696f868cdc188a7155642de24e67e788a741dbb09e99a908cd9",
+  "version": "1.2.3",
+  "file": "packs/teacher-planner-1.2.3.tpp",
+  "sig": "MsHcS5_Bjbbb8ry3dOmwqdt6qN92j5Yz4yxHtFD04OmTivl9M_CPt_kc5ygqNwfqig79euvflBVMZrO3FDkMWA",
+  "size": 1109289,
+  "sha256": "9ad9c15061ad85626381376e3455df7beeffb81437946ea2076dd372b13e9cf3",
   "minShell": "1.1.0",
-  "notes": "Seating plans: saving to PowerPoint now updates both the normal (print) slide and the board (display) slide, adding a board slide if the file has only one. New Print / PDF button: normal view, board view or both, saved as a PDF in the seating plans' PDF folder.",
+  "notes": "Seating plans saved by an earlier version are saved again once so both PowerPoint slides (normal and board view) match; plans imported from a board slide are turned to the normal view.",
   "released": "2026-11-12",
   "installerUrl": ""
 }
