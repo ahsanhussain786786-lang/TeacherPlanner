@@ -1,11 +1,11 @@
 {
-  "version": "1.2.5",
-  "file": "packs/teacher-planner-1.2.5.tpp",
-  "sig": "96KrCYn2OXsRxYhDeMGDkEP_xlWVChrPZAYk4e1moeTYpn1ayJVV6YKLebyp9tBxlo5wnfwQ_Qrem5ROEORorQ",
-  "size": 1109943,
-  "sha256": "36fe76eecb8b3889b2dd47623815b4f1428694095d74402757bce42ae44ba33d",
+  "version": "1.2.6",
+  "file": "packs/teacher-planner-1.2.6.tpp",
+  "sig": "T-YAgsTWYD2kB09YKrr4c0QnFtBXjmfnLYWNjAmOQ-3J-xzlo0pGaRaBglj0HIDLebgS1k1BlkjdQq2e9ijcNw",
+  "size": 1114703,
+  "sha256": "49a8d680aa495c7792057464b9d5b7feaa0fd4bcafc62a7514427ae170d58b47",
   "minShell": "1.1.0",
-  "notes": "Seating plans: a PowerPoint changed outside the app is never overwritten - the app reads it instead; the app no longer saves PowerPoints by itself when it opens; a backup is kept before every save of a file you changed.",
+  "notes": "Seating plans: your PowerPoints are the master copy. Every class plan is rebuilt from its PowerPoint once; after that the app only writes names into your existing desks (print and board slides), never moving desks unless you use Edit room, and keeps names exactly as you wrote them.",
   "released": "2026-11-12",
   "installerUrl": ""
 }
