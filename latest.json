@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "file": "packs/teacher-planner-1.2.0.tpp",
-  "sig": "ZOR7mH6vBu9kAeqUVvN0FMdrAoTZpEyrnwOZXvJwumYKVNhZzA_E3Qq6wrF1ED8tALtsJcSOeakzBxkcxA7dNQ",
-  "size": 1099068,
-  "sha256": "9a383d129a35e7cba443757297071dc2da2d68a1cdb2121774088a11689b9c4b",
+  "version": "1.2.1",
+  "file": "packs/teacher-planner-1.2.1.tpp",
+  "sig": "Br6l6KtLisCcmZHf7eXTlkl8xccnoQP1XHw_i1R8MrcnFkgECUZml49JSt8hUOq0_-xvGcRJxgI0wrdAkEX5QA",
+  "size": 1102904,
+  "sha256": "29be5f49579b5dbe666fdcf0b0ff4f32a56ca976dacfa81cb6d1998f79b7b431",
   "minShell": "1.1.0",
-  "notes": "Class lists can come from an iSAMS Set Lists export (Settings > Class lists from iSAMS), with grades still matched from the mark sheets; each class can use iSAMS or the mark sheet. Excel files that iSAMS exports are now read in full.",
+  "notes": "Settings > Your files and folders: change where the Word planner, mark sheets, seating plans, resources and cover work are, at any time after setup.",
   "released": "2026-11-12",
   "installerUrl": ""
 }
