@@ -1,11 +1,11 @@
 {
-  "version": "1.2.9",
-  "file": "packs/teacher-planner-1.2.9.tpp",
-  "sig": "Xu3zTEiXVYWfyRIVi1U5T6C72qerrdLQLsGuixfbEaMf83zqHfoHpLD77ZUgOfc1FRzpcJ-b3XnQj0jieI-gVw",
-  "size": 1120658,
-  "sha256": "f361c19534e1eed5410114591d89f6e1f4fa042fc80fc74417289f555a19a4ba",
+  "version": "1.3.0",
+  "file": "packs/teacher-planner-1.3.0.tpp",
+  "sig": "-G-zTXwvcSAVjIno9Z3mv8Q9joG3eD5FPygbh43pyzoFQaH9g8OhNqzz7VrOmDLTfrM7ov4fXxmIPqo57O92aA",
+  "size": 1130987,
+  "sha256": "0d90e5b087e1b21ebbc6f058c971a7c53da1ca63d4948b1b9e53035150e6f5ba",
   "minShell": "1.1.0",
-  "notes": "Seating plans: the colour-coded markers (HA, SEN, AA, Q...) are bigger and sit on the top edge of each desk, so names and grades are no longer cut off.",
+  "notes": "Inclusion: EAL and More Able registers, each student's documents (pupil passport, access arrangement forms, reports) one click away, strategy bank links for each need, and guidance documents (JCQ access arrangements, policies, templates, screeners). More able marker and hover details on seating plans.",
   "released": "2026-11-12",
   "installerUrl": ""
 }
