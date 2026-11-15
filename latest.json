@@ -1,11 +1,11 @@
 {
-  "version": "1.3.2",
-  "file": "packs/teacher-planner-1.3.2.tpp",
-  "sig": "9eKMgagY0FPnozpCstCgRwIC0W1uXuNhKCFlr_6Jln8UfWBm4Lj7nEUnxR1BXo6YuNsBhCHohPZEStj72HD-SA",
-  "size": 1138491,
-  "sha256": "169d41490a908ef19a1c075fd18f9bbf9b9281b01bbc07758e2cde8a1b6c72a2",
+  "version": "1.3.3",
+  "file": "packs/teacher-planner-1.3.3.tpp",
+  "sig": "TxLMj-h3HwSkNxuU0L_e9wEDBwP49TnvcLOaMCQYCG-_kIRXNzNqHq9o5usNRja7l_CTj9__PxUfGCHe4PzUjA",
+  "size": 1139771,
+  "sha256": "9d80ef80c2292ae6a301d7d5ca63ff9cbc863f1f0da0a6bef0f33357800ab64f",
   "minShell": "1.1.0",
-  "notes": "Seating plans: a red × on each student's desk (hover or select) takes them out of their seat, and an × next to a name in Not seated removes a student who has left the class (bring them back in Data links). Add a class no longer lists a class you already have when the mark sheet writes it in capitals.",
+  "notes": "Printed seating plans: the class and room are a large title at the top, and each desk's writing shrinks just enough to fit, so names and target/current grades are never cut off (both normal and board view).",
   "released": "2026-11-15",
   "installerUrl": ""
 }
