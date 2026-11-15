@@ -1,11 +1,11 @@
 {
-  "version": "1.3.3",
-  "file": "packs/teacher-planner-1.3.3.tpp",
-  "sig": "TxLMj-h3HwSkNxuU0L_e9wEDBwP49TnvcLOaMCQYCG-_kIRXNzNqHq9o5usNRja7l_CTj9__PxUfGCHe4PzUjA",
-  "size": 1139771,
-  "sha256": "9d80ef80c2292ae6a301d7d5ca63ff9cbc863f1f0da0a6bef0f33357800ab64f",
+  "version": "1.3.4",
+  "file": "packs/teacher-planner-1.3.4.tpp",
+  "sig": "7tJxG1fGa-DnBr0Pc3EIzdrupaxK1EQMpi3_qZs2YIl93xwsqQ1p7AUX331y49BbmWCsZzVKRpiiblcJ9IMjzg",
+  "size": 1139803,
+  "sha256": "0b4128c584737fe63ad16d175ab7376bdd51c665a801c8f633db749289f39c02",
   "minShell": "1.1.0",
-  "notes": "Printed seating plans: the class and room are a large title at the top, and each desk's writing shrinks just enough to fit, so names and target/current grades are never cut off (both normal and board view).",
+  "notes": "Printed seating plans: whole surnames (the writing shrinks rather than splitting a name), names stay readable on SEN desks (the need is shortened on the desk and listed in full under the plan), and pop-up messages no longer appear on the printout.",
   "released": "2026-11-15",
   "installerUrl": ""
 }
