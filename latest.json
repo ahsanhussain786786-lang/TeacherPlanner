@@ -1,11 +1,11 @@
 {
-  "version": "1.3.8",
-  "file": "packs/teacher-planner-1.3.8.tpp",
-  "sig": "6kGSYuLgybd27VNV9wF67758ZvTER0aOGQMd3jr0NbHxXae86zJWSAocETyvsHijdiU1HVYk0zol9gfa1f5ymw",
-  "size": 1149724,
-  "sha256": "4ceb91497abb17e79e61604f5a94adb9b05720e4035087ddf86d08325f088b98",
+  "version": "1.3.9",
+  "file": "packs/teacher-planner-1.3.9.tpp",
+  "sig": "zAd9GTdof3IPfNeaJ1iuGZM0J3MuQIHM63EbgMVZHODZ9a96U6I75n8Ea6WAG3DHTAk4netDEE3pITxZPY2U7g",
+  "size": 1150137,
+  "sha256": "dd651057e332ebd22b2374ef2f2bf1730d59588d96fc8610f4f6d0d6383f0a03",
   "minShell": "1.1.0",
-  "notes": "Word planner: when the planner is open in Word, the app makes its changes through Word, so OneDrive AutoSave no longer splits lessons into extra table cells.",
+  "notes": "Minimise panels: click a panel's heading (or ▾) to minimise or show it. Panels with student details – Students to watch, Follow-ups, behaviour lists, missing homework, the Inclusion list – start minimised each time the planner opens.",
   "released": "2026-11-18",
   "installerUrl": ""
 }
