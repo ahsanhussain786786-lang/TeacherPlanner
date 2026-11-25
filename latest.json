@@ -1,11 +1,11 @@
 {
-  "version": "1.4.2",
-  "file": "packs/teacher-planner-1.4.2.tpp",
-  "sig": "TXmyBssXtv0TWrC3kVyMeIic2IYEkF-gQb5Y8ojvL9IKH0232x-erLaKP6OWNe5OHdxcr07ooGR0GvZHqxMSDA",
-  "size": 1170085,
-  "sha256": "55d04e6064facbf87f8f83ba73917ea6e89d8b2cfab5c3558c725c6c49cb9c80",
+  "version": "1.4.3",
+  "file": "packs/teacher-planner-1.4.3.tpp",
+  "sig": "rq3ZwDNjxFETJYipwcb06YjHbe6PwUHsn29gzllnN1Kebc-fvDgBPxal9SAZugmNgkaYVt8M21P_1EF1E3GNJQ",
+  "size": 1173565,
+  "sha256": "1a0f153a5da70ce14b4bb2857c95dbfe6aa39736f2ab9d0ee068e1261ecaa322",
   "minShell": "1.1.0",
-  "notes": "School calendar: connect the whole-school events calendar (SharePoint link or file) in Settings or during setup. Events show on Today and the daily planner and go into each day's Morning row in your Word planner (after anything you wrote), automatically for new weeks and new planners. Choose divisions and tabs to show.",
+  "notes": "New School calendar page (sidebar): the whole-school calendar for the year by month, with search, term filter, 'show everything' and past events; click a date to open that day in your planner.",
   "released": "2026-11-25",
   "installerUrl": ""
 }
