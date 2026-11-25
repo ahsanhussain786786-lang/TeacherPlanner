@@ -1,11 +1,11 @@
 {
-  "version": "1.4.1",
-  "file": "packs/teacher-planner-1.4.1.tpp",
-  "sig": "vDJmEHE0cmxrYNWqOsllsf_U4divlx_y7JyOaUsG1mP8dMYW5oYiMoek__Ks83_K0QQIjZrIzEFx89bCgEi4oA",
-  "size": 1152950,
-  "sha256": "3f5dd662911aefc2f832dd41b85b222adc0c9307ec7bbb7f550717d7970d20a7",
+  "version": "1.4.2",
+  "file": "packs/teacher-planner-1.4.2.tpp",
+  "sig": "TXmyBssXtv0TWrC3kVyMeIic2IYEkF-gQb5Y8ojvL9IKH0232x-erLaKP6OWNe5OHdxcr07ooGR0GvZHqxMSDA",
+  "size": 1170085,
+  "sha256": "55d04e6064facbf87f8f83ba73917ea6e89d8b2cfab5c3558c725c6c49cb9c80",
   "minShell": "1.1.0",
-  "notes": "Daily planner: before school, registration, breaks and after school now have an edit box – add or change duties, clubs and notes, saved into your Word planner (grey rows stay grey). Fixes dashes (– —) being garbled when the planner is open in Word.",
+  "notes": "School calendar: connect the whole-school events calendar (SharePoint link or file) in Settings or during setup. Events show on Today and the daily planner and go into each day's Morning row in your Word planner (after anything you wrote), automatically for new weeks and new planners. Choose divisions and tabs to show.",
   "released": "2026-11-25",
   "installerUrl": ""
 }
