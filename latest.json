@@ -1,11 +1,11 @@
 {
-  "version": "1.4.3",
-  "file": "packs/teacher-planner-1.4.3.tpp",
-  "sig": "rq3ZwDNjxFETJYipwcb06YjHbe6PwUHsn29gzllnN1Kebc-fvDgBPxal9SAZugmNgkaYVt8M21P_1EF1E3GNJQ",
-  "size": 1173565,
-  "sha256": "1a0f153a5da70ce14b4bb2857c95dbfe6aa39736f2ab9d0ee068e1261ecaa322",
+  "version": "1.4.4",
+  "file": "packs/teacher-planner-1.4.4.tpp",
+  "sig": "mmnX-1lxO7Ja_zjiAJ1ocldsvYUYN5-4z4ITUuNRfBxDL8j4vIvIH_rJ1xQCRdMH4ZYCJFJjnIczpf8PhZxgVg",
+  "size": 1174381,
+  "sha256": "ca6b5aca45851104bcae77a38de866b7ab033fe60d466ef555fda914bba28738",
   "minShell": "1.1.0",
-  "notes": "New School calendar page (sidebar): the whole-school calendar for the year by month, with search, term filter, 'show everything' and past events; click a date to open that day in your planner.",
-  "released": "2026-11-25",
+  "notes": "Parents' evening: bookings from Outlook are matched to the right student using the child's name on the booking form (e.g. Bookings' 'What is your child's name?'), with the event title as the parent. Parents' email, phone and address in booking descriptions are no longer passed into the app.",
+  "released": "2026-11-27",
   "installerUrl": ""
 }
